@@ -101,6 +101,8 @@
 - [RogueMaster CFW Animation](Kuronons/Kuronons_RMCFW_128x64)
   <details>
   <summary>
+  
+  
 
   #### Black Flags
   </summary>
@@ -298,6 +300,13 @@
 <details>
 <summary>
 
+### Creator: [mnenkov](https://github.com/mnenkov/flipper-zero-animations)
+</summary>
+
+- [gif2zip](https://github.com/Kf637/Animations-for-Flipper-Zero/tree/main/dolphin/gif2zip)
+- [manifestCreator](https://github.com/Kf637/Animations-for-Flipper-Zero/tree/main/dolphin/ManifestCreator)
+</details>
+<summary>
 ### Creator: [wotori](https://github.com/wotori)
 </summary>
 
