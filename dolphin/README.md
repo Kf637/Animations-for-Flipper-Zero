@@ -257,9 +257,16 @@
 ### Creator: [STOPOXY](https://github.com/stopoxy/FZAnimations)
 </summary>
 
-- [School Days](STOPOXY/STOPOXY_SCHOOL_DAYS_128x64)
-- [The Legend of Zelda](STOPOXY/STOPOXY_TLOZ_128x64)
-- [Whisper of the Heart](STOPOXY/STOPOXY_WOT_HEART_128x64)
+- STOPOXY_MTV_128x64
+- STOPOXY_PKMNEMRLD_128x64
+- STOPOXY_SCHOOL_DAYS_128x64
+- STOPOXY_SEGA_128x64
+- STOPOXY_TLOZ_128x64
+- STOPOXY_WHISPER_OF_THE_HEART_128x64
+- stopoxy_CN_128x64
+- stopoxy_daria_128x64
+- stopoxy_goku_128x64
+- stopoxy_in&out_128x64
 </details>
 </td>
 </tr>
@@ -435,24 +442,7 @@
 <details>
 <summary>
 
-### Creator: [stopoxy](https://github.com/stopoxy/FZAnimations)
-</summary>
 
-- STOPOXY_MTV_128x64
-- STOPOXY_PKMNEMRLD_128x64
-- STOPOXY_SCHOOL_DAYS_128x64
-- STOPOXY_SEGA_128x64
-- STOPOXY_TLOZ_128x64
-- STOPOXY_WHISPER_OF_THE_HEART_128x64
-- stopoxy_CN_128x64
-- stopoxy_daria_128x64
-- stopoxy_goku_128x64
-- stopoxy_in&out_128x64
-</details>
-</td>
-<td>
-<details>
-<summary>
 
 ### Creator: [xMasterX](https://github.com/DarkFlippers/unleashed-firmware)
 </summary>
