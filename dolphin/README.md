@@ -155,6 +155,25 @@
 <details>
 <summary>
 
+### Creator: [stopoxy](https://github.com/stopoxy/FZAnimations)
+</summary>
+
+- STOPOXY_MTV_128x64
+- STOPOXY_PKMNEMRLD_128x64
+- STOPOXY_SCHOOL_DAYS_128x64
+- STOPOXY_SEGA_128x64
+- STOPOXY_TLOZ_128x64
+- STOPOXY_WHISPER_OF_THE_HEART_128x64
+- stopoxy_CN_128x64
+- stopoxy_daria_128x64
+- stopoxy_goku_128x64
+- stopoxy_in&out_128x64
+</details>
+</td>
+<td>
+<details>
+<summary>
+
 ### Creator: MajiK
 </summary>
 
