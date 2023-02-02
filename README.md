@@ -1,3 +1,7 @@
+# Flipper Animation Manager by Ooggle
+https://github.com/Ooggle/FlipperAnimationManager
+
+
 # Included Dolphin Animations:
 <table>
 <tr>
