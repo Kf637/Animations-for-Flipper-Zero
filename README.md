@@ -1,7 +1,3 @@
-# Flipper Animation Manager by Ooggle
-https://github.com/Ooggle/FlipperAnimationManager
-
-
 # Included Dolphin Animations:
 <table>
 <tr>
@@ -648,3 +644,7 @@ LamboGame
 - Link to Stop Oxy Graphics : [Stop Oxy Github](https://github.com/stopoxy/FZAnimations)
   
 - Link to DoobTheGoober Graphics : [DoobTheGoober Github](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
+
+# Flipper Animation Manager by Ooggle
+https://github.com/Ooggle/FlipperAnimationManager
+
