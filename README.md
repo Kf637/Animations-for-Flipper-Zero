@@ -1,3 +1,8 @@
+# **Some animations include NSFW!**
+
+
+
+
 # Included Dolphin Animations:
 <table>
 <tr>
@@ -9,6 +14,16 @@
 </summary>
 
 - [Mew](Arkaivos/L1_Mew_128x64)
+</details>
+</td>
+<td>
+<details>
+<summary>
+
+### Creator: Kf637
+</summary>
+
+- [Naruto_Pain(WIP)](Kf637/Naruto_Pain(WIP))
 </details>
 </td>
 <td>
