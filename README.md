@@ -20,15 +20,7 @@
 <details>
 <summary>
 
-### Creator: Kf637
-</summary>
 
-- [Naruto_Pain(WIP)](Kf637/Naruto_Pain(WIP))
-</details>
-</td>
-<td>
-<details>
-<summary>
 
 ### Creator: ESurge
 </summary>
