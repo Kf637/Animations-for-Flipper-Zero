@@ -1,0 +1,16 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: anim
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: xtreme_logo
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8

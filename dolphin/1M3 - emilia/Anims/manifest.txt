@@ -1,0 +1,79 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: L1_PIKACHU_128x64
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: L1_POKEMON_WALK_128x64
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: L1_SPACEINVADERS_128x64
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: L1_SPACEINVADERS_INV_128x64
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: R3_MASTERSYSTEM
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: R3_NES
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: ES_Kirbs_Tunes
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: 1M3_BADAPPLE
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: Kirby
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: L1_JILL_HOME_128x64
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: Fish
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 9

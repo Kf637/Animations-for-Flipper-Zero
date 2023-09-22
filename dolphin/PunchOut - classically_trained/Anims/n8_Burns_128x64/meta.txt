@@ -1,0 +1,32 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 9
+Active frames: 0
+Frames order: 0 1 0 0 0 1 0 0 0
+Active cycles: 0
+Frame rate: 2
+Duration: 3600
+Active cooldown: 0
+
+Bubble slots: 2
+
+Slot: 0
+X: 78
+Y: 13
+Text: Hello\nSmithers!
+AlignH: Left
+AlignV: Bottom
+StartFrame: 1
+EndFrame: 3
+
+Slot: 1
+X: 78
+Y: 16
+Text: You are\nquite good\nat turning\nme on!
+AlignH: Left
+AlignV: Center
+StartFrame: 4
+EndFrame: 4
