@@ -652,6 +652,6 @@ LamboGame
   
 - Link to DoobTheGoober Graphics : [DoobTheGoober Github](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
 
-# Flipper Animation Manager by Ooggle
-https://github.com/Ooggle/FlipperAnimationManager
 
+# All animations are checked using Flipper Animation Manager by Ooggle.
+https://github.com/Ooggle/FlipperAnimationManager
