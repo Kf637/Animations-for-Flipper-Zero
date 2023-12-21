@@ -1,0 +1,93 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: LS_HitmonleeBoxing_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LS_PsyduckCry_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LS_PikachuShock_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LS_LatiasSighting_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LS_Pokecenter_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LS_MagikarpFishing_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LS_PikachuSurf_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LS_StartBattle_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LS_PikachuBaloon_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LS_GoldIntro_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LS_CrystalIntro_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: LS_PikachuIdle_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Credits_128x64
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 1

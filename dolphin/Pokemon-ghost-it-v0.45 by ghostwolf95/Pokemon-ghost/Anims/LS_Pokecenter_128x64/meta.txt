@@ -1,0 +1,77 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 3
+Active frames: 30
+Frames order: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
+Active cycles: 1
+Frame rate: 2
+Duration: 360
+Active cooldown: 0
+
+Bubble slots: 1
+
+Slot: 0
+X: 4
+Y: 25
+Text: Buongiorno!
+AlignH: Right
+AlignV: Top
+StartFrame: 4
+EndFrame: 5
+
+Slot: 0
+X: 4
+Y: 25
+Text: Rimettiamo\nin sesto
+AlignH: Right
+AlignV: Top
+StartFrame: 6
+EndFrame: 7
+
+Slot: 0
+X: 13
+Y: 25
+Text: i tuoi\npokemon.
+AlignH: Right
+AlignV: Top
+StartFrame: 8
+EndFrame: 9
+
+Slot: 0
+X: 11
+Y: 25
+Text: Grazie per\nl'attesa.
+AlignH: Right
+AlignV: Top
+StartFrame: 25
+EndFrame: 26
+
+Slot: 0
+X: 16
+Y: 25
+Text: Ora i tuoi\npokemon
+AlignH: Right
+AlignV: Top
+StartFrame: 27
+EndFrame: 28
+
+Slot: 0
+X: 19
+Y: 25
+Text: sono in\nperfetta\nforma.
+AlignH: Right
+AlignV: Top
+StartFrame: 29
+EndFrame: 30
+
+Slot: 0
+X: 4
+Y: 25
+Text: Arrivederci!
+AlignH: Right
+AlignV: Top
+StartFrame: 31
+EndFrame: 32
