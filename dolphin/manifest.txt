@@ -1,2 +1,0 @@
-Filetype: Flipper Animation Manifest
-Version: 1
