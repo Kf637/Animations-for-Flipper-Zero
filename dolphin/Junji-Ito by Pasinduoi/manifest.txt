@@ -1,0 +1,30 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: SpiralGirl
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Demons
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: EyeSprial
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Pool
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 8

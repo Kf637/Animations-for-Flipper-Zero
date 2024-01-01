@@ -1,0 +1,30 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: ElliotAlderson
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: HatTip
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: ProtocolError
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: Logo
+Min butthurt: 0
+Max butthurt: 30
+Min level: 1
+Max level: 30
+Weight: 8
