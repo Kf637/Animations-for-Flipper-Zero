@@ -1,0 +1,55 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: eva1
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: eva2
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: eva3
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: eva4
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: eva5
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: eva6
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: eva7
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+
+
+

@@ -1,0 +1,58 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: t1
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: t2
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: sat1
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: t3
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: t4
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: t5
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: t6
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: t7
+Min butthurt: 0
+Max butthurt: 18
+Min level: 1
+Max level: 30
+Weight: 8
