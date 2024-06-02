@@ -1,6 +1,9 @@
+### Animations Preview (NSFW is hidden): [Show Preview](https://youtu.be/31qJiKqBL_I)
+
+
+
+
 # **Some animations include NSFW!**
-
-
 
 
 - Link to Kuronons Graphics : [Kuronons Github](https://github.com/Kuronons/FZ_graphics#links-of-interest--flipper-graphics)
@@ -14,3 +17,6 @@
 
 # All animations are checked using Flipper Animation Manager by Ooggle.
 https://github.com/Ooggle/FlipperAnimationManager
+
+
+
