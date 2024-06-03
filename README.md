@@ -1,5 +1,7 @@
-### Animations Preview (NSFW is hidden): [Show Preview](https://youtu.be/31qJiKqBL_I)
-
+### Animations Preview (NSFW is hidden):
+<video src="Animations.mp4" width="600" height="400" loop autoplay muted>
+  Your browser does not support the video tag.
+</video>
 
 
 
