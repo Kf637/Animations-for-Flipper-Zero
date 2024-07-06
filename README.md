@@ -1,12 +1,18 @@
+# **Some animations include NSFW!**
+
+## Star History
+
+<a href="https://star-history.com/#Kf637/Animations-for-Flipper-Zero&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Kf637/Animations-for-Flipper-Zero&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Kf637/Animations-for-Flipper-Zero&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Kf637/Animations-for-Flipper-Zero&type=Date" />
+ </picture>
+</a>
+
 ### Animations Preview (NSFW is hidden):
 
 ![Show Preview](Animations.gif)
-
-
-
-
-# **Some animations include NSFW!**
-
 
 - Link to Kuronons Graphics : [Kuronons Github](https://github.com/Kuronons/FZ_graphics#links-of-interest--flipper-graphics)
 
