@@ -2,11 +2,11 @@
 
 ## Star History
 
-<a href="https://star-history.com/#Kf637/Animations-for-Flipper-Zero&Date">
+<a href="https://star-history.com/#Kf637/Animations-for-Flipper-Zero&Timeline">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Kf637/Animations-for-Flipper-Zero&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Kf637/Animations-for-Flipper-Zero&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Kf637/Animations-for-Flipper-Zero&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Kf637/Animations-for-Flipper-Zero&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Kf637/Animations-for-Flipper-Zero&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Kf637/Animations-for-Flipper-Zero&type=Timeline" />
  </picture>
 </a>
 
