@@ -1,5 +1,3 @@
-# **Some animations include NSFW!**
-
 ## Star History
 
 <a href="https://star-history.com/#Kf637/Animations-for-Flipper-Zero&Timeline">
@@ -9,10 +7,6 @@
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Kf637/Animations-for-Flipper-Zero&type=Timeline" />
  </picture>
 </a>
-
-### Animations Preview (NSFW is hidden):
-
-![Show Preview](Animations.gif)
 
 - Link to Kuronons Graphics : [Kuronons Github](https://github.com/Kuronons/FZ_graphics#links-of-interest--flipper-graphics)
 
